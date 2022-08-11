@@ -1,1 +1,1 @@
-# Brief projet 5, concevoir le theme Wordpress.
+# Brief projet 5, concevoir un theme Wordpress.
